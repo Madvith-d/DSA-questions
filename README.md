@@ -7,6 +7,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -21,4 +22,12 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
