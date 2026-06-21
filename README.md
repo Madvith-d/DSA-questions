@@ -10,6 +10,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madvith-d/DSA-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -37,4 +38,5 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madvith-d/DSA-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
