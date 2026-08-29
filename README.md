@@ -11,6 +11,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Madvith-d/DSA-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -43,4 +44,8 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0162-find-peak-element](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Madvith-d/DSA-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
