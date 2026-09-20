@@ -8,6 +8,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Madvith-d/DSA-questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madvith-d/DSA-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -21,11 +22,13 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Madvith-d/DSA-questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madvith-d/DSA-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -66,4 +69,12 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Madvith-d/DSA-questions/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
