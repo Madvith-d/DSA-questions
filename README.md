@@ -19,6 +19,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0875-koko-eating-bananas](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Madvith-d/DSA-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Madvith-d/DSA-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Madvith-d/DSA-questions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
