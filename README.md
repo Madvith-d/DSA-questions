@@ -25,6 +25,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madvith-d/DSA-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
