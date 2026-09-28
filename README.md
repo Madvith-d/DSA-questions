@@ -7,6 +7,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Madvith-d/DSA-questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Madvith-d/DSA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madvith-d/DSA-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -63,6 +64,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Madvith-d/DSA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
@@ -82,4 +84,8 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Madvith-d/DSA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
