@@ -86,6 +86,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,8 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
