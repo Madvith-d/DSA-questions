@@ -69,6 +69,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Madvith-d/DSA-questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
@@ -83,6 +84,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -104,4 +106,8 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Madvith-d/DSA-questions/tree/main/0075-sort-colors/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
