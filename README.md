@@ -15,6 +15,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Madvith-d/DSA-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Madvith-d/DSA-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madvith-d/DSA-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Madvith-d/DSA-questions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -75,6 +76,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Madvith-d/DSA-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Madvith-d/DSA-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Madvith-d/DSA-questions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Greedy
@@ -86,6 +88,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Madvith-d/DSA-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
