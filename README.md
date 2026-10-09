@@ -127,4 +127,12 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Madvith-d/DSA-questions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Madvith-d/DSA-questions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
