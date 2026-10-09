@@ -21,6 +21,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0238-product-of-array-except-self](https://github.com/Madvith-d/DSA-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/Madvith-d/DSA-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Madvith-d/DSA-questions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -92,11 +93,13 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madvith-d/DSA-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/Madvith-d/DSA-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Madvith-d/DSA-questions/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/Madvith-d/DSA-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Madvith-d/DSA-questions/tree/main/0853-car-fleet/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +108,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Madvith-d/DSA-questions/tree/main/0075-sort-colors/) | Medium |
+| [0853-car-fleet](https://github.com/Madvith-d/DSA-questions/tree/main/0853-car-fleet/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
