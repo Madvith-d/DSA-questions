@@ -6,6 +6,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Madvith-d/DSA-questions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Madvith-d/DSA-questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Madvith-d/DSA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madvith-d/DSA-questions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -50,6 +51,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Madvith-d/DSA-questions/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
