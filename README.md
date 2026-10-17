@@ -42,6 +42,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0075-sort-colors](https://github.com/Madvith-d/DSA-questions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Madvith-d/DSA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Madvith-d/DSA-questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Madvith-d/DSA-questions/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madvith-d/DSA-questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/Madvith-d/DSA-questions/tree/main/0392-is-subsequence/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -96,6 +97,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Madvith-d/DSA-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madvith-d/DSA-questions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0143-reorder-list](https://github.com/Madvith-d/DSA-questions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Madvith-d/DSA-questions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Madvith-d/DSA-questions/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/Madvith-d/DSA-questions/tree/main/0739-daily-temperatures/) | Medium |
@@ -137,11 +139,13 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Madvith-d/DSA-questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Madvith-d/DSA-questions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Madvith-d/DSA-questions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Madvith-d/DSA-questions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Madvith-d/DSA-questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/Madvith-d/DSA-questions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Madvith-d/DSA-questions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
