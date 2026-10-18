@@ -1,26 +1,26 @@
 class Solution {
     public int[] dailyTemperatures(int[] temp) {
-        record IntPair(int value , int index){}
-        Stack<IntPair> st = new Stack<>();
-        int ans[] = new int[temp.length];
-        for(int i = 0 ; i < temp.length ; i ++){
+        Stack<Integer> st = new Stack<>();
+        int res[] = new int[temp.length];
+
+        for(int i  = 0 ; i < temp.length ; i++){
             if(st.isEmpty()){
-                IntPair p = new IntPair(temp[i],i);
-                st.push(p);
+                st.push(i);
             }else{
-                while( !st.isEmpty() && st.peek().value < temp[i]){
-                    IntPair k = st.pop();
-                    ans[k.index] = i - k.index;
+                while(!st.isEmpty() && temp[st.peek()]  < temp[i] ){
+                    int idx = st.pop();
+                    res[idx] = i - idx;
                 }
-                IntPair p = new IntPair(temp[i],i);
-                st.push(p);
+
+                st.push(i);
             }
         }
-        if(!st.isEmpty()){
-            IntPair k = st.pop();
-            ans[k.index] = 0;
+
+        while(!st.isEmpty()){
+            int idx = st.pop() ;
+            res[idx] = 0;
         }
 
-        return ans;
+        return res ;
     }
 }
