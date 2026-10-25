@@ -24,6 +24,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | [0739-daily-temperatures](https://github.com/Madvith-d/DSA-questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Madvith-d/DSA-questions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0875-koko-eating-bananas/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Easy/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Madvith-d/DSA-questions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -61,6 +62,7 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Madvith-d/DSA-questions/tree/main/C++/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +153,16 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Madvith-d/DSA-questions/tree/main/0141-linked-list-cycle/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
