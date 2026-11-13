@@ -156,13 +156,23 @@ Collection of DSA questions that i solved; Created using [LeetHub-3.0](https://g
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Madvith-d/DSA-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Madvith-d/DSA-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Madvith-d/DSA-questions/tree/main/1254-number-of-closed-islands/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Madvith-d/DSA-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Madvith-d/DSA-questions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
